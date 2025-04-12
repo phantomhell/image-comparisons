@@ -1,0 +1,3 @@
+# Buat file .gitattributes di root repository
+*.orig binary
+*.orig linguist-language=JPG
